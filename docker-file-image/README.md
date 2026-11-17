@@ -1,4 +1,4 @@
-# Task: Dockerfile & Image (`02-docker-file-image`)
+# Task: Dockerfile & Image (`docker-file-image`)
 
 This folder contains the complete setup and instructions for containerizing a lightweight Python-based HTTP server using Docker.
 
