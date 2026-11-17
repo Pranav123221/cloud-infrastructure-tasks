@@ -1,6 +1,6 @@
 # 1. Navigate to the folder or create file directly via PowerShell
 @"
-# Task: MongoDB Database Design & System Diagram (`03-mongodb-system-diagram`)
+# Task: MongoDB Database Design & System Diagram (`mongodb-system-diagram`)
 
 This folder contains the system architecture, schema design, and data modeling strategy for MongoDB collections used across the backend infrastructure.
 
