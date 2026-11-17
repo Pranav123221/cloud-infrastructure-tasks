@@ -1,4 +1,4 @@
-# Task: Redis Server Timestamp (`06-redis-server-timestamp`)
+# Task: Redis Server Timestamp (`redis-server-timestamp`)
 
 This folder contains a FastAPI backend implementation integrated with a Redis in-memory data store to capture, store, and retrieve real-time request timestamps.
 
